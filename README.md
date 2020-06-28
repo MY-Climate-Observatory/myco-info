@@ -1,2 +1,5 @@
-# myco-info
-This repository contains information on MY Climate Observatory 
+# MY Climate Observatory Basic Information
+MY Climate Observatory (MYCO) is an open platform for Malaysia's climate data
+
+* FAQ
+* MYCO Code of Conduct
